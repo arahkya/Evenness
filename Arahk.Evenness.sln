@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arahk.Evenness.Tests", "Ara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arahk.Evenness.WebApi", "Arahk.Evenness.WebApi\Arahk.Evenness.WebApi.csproj", "{9E7FBD49-2926-470B-8F19-1E01B2313222}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arahk.Evenness.Lib", "Arahk.Evenness.Lib\Arahk.Evenness.Lib.csproj", "{2B83937E-ADBC-487A-AB59-63FECB171559}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{9E7FBD49-2926-470B-8F19-1E01B2313222}.Release|x64.Build.0 = Release|Any CPU
 		{9E7FBD49-2926-470B-8F19-1E01B2313222}.Release|x86.ActiveCfg = Release|Any CPU
 		{9E7FBD49-2926-470B-8F19-1E01B2313222}.Release|x86.Build.0 = Release|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Debug|x64.Build.0 = Debug|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Debug|x86.Build.0 = Debug|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Release|x64.ActiveCfg = Release|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Release|x64.Build.0 = Release|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Release|x86.ActiveCfg = Release|Any CPU
+		{2B83937E-ADBC-487A-AB59-63FECB171559}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

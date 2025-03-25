@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Arahk.Evenness.WebApi\Arahk.Evenness.WebApi.csproj" />
+    <ProjectReference Include="..\Arahk.Evenness.Lib\Arahk.Evenness.Lib.csproj" />
   </ItemGroup>
 
 </Project>
