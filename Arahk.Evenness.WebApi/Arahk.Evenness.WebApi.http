@@ -1,0 +1,6 @@
+@Arahk.Evenness.WebApi_HostAddress = http://localhost:5082
+
+GET {{Arahk.Evenness.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
